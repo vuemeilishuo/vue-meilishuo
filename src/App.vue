@@ -36,10 +36,11 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  /*margin-top: 60px;
+  overflow: auto;*/
 }
 ul{list-style: none;}
-a{text-decoration: none;font-size: 1rem;}
+a{text-decoration: none;font-size: 3rem;}
 #tab{width: 100%;height: 10%;position: fixed;bottom: 0;background: rgba(255,255,255,.95);}
 #tab>li{width: 25%;float: left;}
 </style>
